@@ -136,13 +136,13 @@ namespace XrmToolBox.New
                 return;
             }
 
-            tsmiXtbHelp.Text = @"Help for XrmToolBox";
+            tsmiXtbHelp.Text = @"Help for XrmNightlyBox";
             tsmiXtbHelp.Image = (Image)resources.GetObject("tsmiXtbHelp.Image");
-            tsmiXtbDonate.Text = @"Donate for XrmToolBox";
+            tsmiXtbDonate.Text = @"Donate for XrmNightlyBox";
             tsmiXtbDonate.Image = (Image)resources.GetObject("tsmiXtbHelp.Image");
-            tsmiXtbFeedback.Text = @"Feedback for XrmToolBox";
+            tsmiXtbFeedback.Text = @"Feedback for XrmNightlyBox";
             tsmiXtbFeedback.Image = (Image)resources.GetObject("tsmiXtbHelp.Image");
-            tsmiXtbAbout.Text = @"About XrmToolBox";
+            tsmiXtbAbout.Text = @"About XrmNightlyBox";
             tsmiXtbAbout.Image = (Image)resources.GetObject("tsmiXtbHelp.Image");
 
             var currentPluginForm = (PluginForm)dpMain.ActiveContent;

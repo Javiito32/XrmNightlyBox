@@ -230,7 +230,7 @@ namespace XrmToolBox.PluginsStore
             this.tsbShowThisScreenOnStartup.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsbShowThisScreenOnStartup.Name = "tsbShowThisScreenOnStartup";
             this.tsbShowThisScreenOnStartup.Size = new System.Drawing.Size(247, 52);
-            this.tsbShowThisScreenOnStartup.Text = "Show on XrmToolBox startup";
+            this.tsbShowThisScreenOnStartup.Text = "Show on XrmNightlyBox startup";
             this.tsbShowThisScreenOnStartup.Click += new System.EventHandler(this.tsbShowThisScreenOnStartup_Click);
             // 
             // toolStripSeparator3

@@ -67,7 +67,7 @@ namespace XrmToolBox.Controls
 
                 try
                 {
-                    LblConnectivityTest.Text = "Testing access to XrmToolBox portal...";
+                    LblConnectivityTest.Text = "Testing access to XrmNightlyBox portal...";
                     LblConnectivityTest.ForeColor = SystemColors.Control;
 
                     var testClient = new HttpClient();

@@ -226,7 +226,7 @@
             this.llUpdateNextStart.Size = new System.Drawing.Size(499, 58);
             this.llUpdateNextStart.TabIndex = 3;
             this.llUpdateNextStart.TabStop = true;
-            this.llUpdateNextStart.Text = "Update on next XrmToolBox run";
+            this.llUpdateNextStart.Text = "Update on next XrmNightlyBox run";
             this.llUpdateNextStart.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.llUpdateNextStart.VisitedLinkColor = System.Drawing.Color.Blue;
             this.llUpdateNextStart.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llUpdateNextStart_LinkClicked);

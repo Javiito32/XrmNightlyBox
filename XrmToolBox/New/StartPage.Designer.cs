@@ -233,7 +233,7 @@
             this.label3.Padding = new System.Windows.Forms.Padding(0, 31, 0, 0);
             this.label3.Size = new System.Drawing.Size(1146, 93);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Welcome to XrmToolBox!";
+            this.label3.Text = "Welcome to XrmNightlyBox!";
             // 
             // pnlRightActions
             // 
@@ -393,7 +393,7 @@
             this.lblVisitXrmToolBoxPortal.Name = "lblVisitXrmToolBoxPortal";
             this.lblVisitXrmToolBoxPortal.Size = new System.Drawing.Size(480, 74);
             this.lblVisitXrmToolBoxPortal.TabIndex = 17;
-            this.lblVisitXrmToolBoxPortal.Text = "       Visit XrmToolBox portal";
+            this.lblVisitXrmToolBoxPortal.Text = "       Visit XrmNightlyBox portal";
             this.lblVisitXrmToolBoxPortal.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.lblVisitXrmToolBoxPortal.Click += new System.EventHandler(this.LabelClick);
             this.lblVisitXrmToolBoxPortal.MouseEnter += new System.EventHandler(this.LabelMouseEnter);
@@ -474,7 +474,7 @@
             this.chkDoNotShowAtStartup.Name = "chkDoNotShowAtStartup";
             this.chkDoNotShowAtStartup.Size = new System.Drawing.Size(1626, 24);
             this.chkDoNotShowAtStartup.TabIndex = 5;
-            this.chkDoNotShowAtStartup.Text = "Do not show this page when XrmToolBox starts";
+            this.chkDoNotShowAtStartup.Text = "Do not show this page when XrmNightlyBox starts";
             this.chkDoNotShowAtStartup.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.chkDoNotShowAtStartup.UseVisualStyleBackColor = false;
             this.chkDoNotShowAtStartup.CheckedChanged += new System.EventHandler(this.chkDoNotShowAtStartup_CheckedChanged);

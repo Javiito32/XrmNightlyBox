@@ -159,7 +159,7 @@ namespace XrmToolBox.Forms
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(305, 38);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Donate for XrmToolBox";
+            this.label1.Text = "Donate for XrmNightlyBox";
             // 
             // btnXtbDollars
             // 

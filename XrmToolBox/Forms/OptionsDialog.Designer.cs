@@ -411,7 +411,7 @@
             this.lblChangePathTitle.Name = "lblChangePathTitle";
             this.lblChangePathTitle.Size = new System.Drawing.Size(858, 42);
             this.lblChangePathTitle.TabIndex = 3;
-            this.lblChangePathTitle.Text = "How to change XrmToolBox storage folder";
+            this.lblChangePathTitle.Text = "How to change XrmNightlyBox storage folder";
             // 
             // llOpenStorageFolder
             // 
@@ -422,7 +422,7 @@
             this.llOpenStorageFolder.Size = new System.Drawing.Size(858, 40);
             this.llOpenStorageFolder.TabIndex = 1;
             this.llOpenStorageFolder.TabStop = true;
-            this.llOpenStorageFolder.Text = "Open XrmToolBox storage folder";
+            this.llOpenStorageFolder.Text = "Open XrmNightlyBox storage folder";
             this.llOpenStorageFolder.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llOpenStorageFolder_LinkClicked);
             // 
             // llOpenRootFolder
@@ -434,7 +434,7 @@
             this.llOpenRootFolder.Size = new System.Drawing.Size(858, 40);
             this.llOpenRootFolder.TabIndex = 0;
             this.llOpenRootFolder.TabStop = true;
-            this.llOpenRootFolder.Text = "Open XrmToolBox folder";
+            this.llOpenRootFolder.Text = "Open XrmNightlyBox folder";
             this.llOpenRootFolder.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llOpenRootFolder_LinkClicked);
             // 
             // tbDataCollect
@@ -461,7 +461,7 @@
             this.chkOptinAI.Name = "chkOptinAI";
             this.chkOptinAI.Size = new System.Drawing.Size(517, 24);
             this.chkOptinAI.TabIndex = 2;
-            this.chkOptinAI.Text = "I allow XrmToolBox to send anonymous data for statistics usage only";
+            this.chkOptinAI.Text = "I allow XrmNightlyBox to send anonymous data for statistics usage only";
             this.chkOptinAI.UseVisualStyleBackColor = true;
             // 
             // label6

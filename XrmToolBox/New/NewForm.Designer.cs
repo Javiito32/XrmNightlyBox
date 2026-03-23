@@ -313,7 +313,7 @@ namespace XrmToolBox.New
             this.tsmiXtbHelp.Image = ((System.Drawing.Image)(resources.GetObject("tsmiXtbHelp.Image")));
             this.tsmiXtbHelp.Name = "tsmiXtbHelp";
             this.tsmiXtbHelp.Size = new System.Drawing.Size(317, 34);
-            this.tsmiXtbHelp.Text = "XrmToolBox help";
+            this.tsmiXtbHelp.Text = "XrmNightlyBox help";
             this.tsmiXtbHelp.Click += new System.EventHandler(this.helpToolStripMenuItem_Click);
             // 
             // tsmiPluginHelp
@@ -332,7 +332,7 @@ namespace XrmToolBox.New
             // 
             this.tsmiXtbFeedback.Name = "tsmiXtbFeedback";
             this.tsmiXtbFeedback.Size = new System.Drawing.Size(317, 34);
-            this.tsmiXtbFeedback.Text = "Feedback for XrmToolBox";
+            this.tsmiXtbFeedback.Text = "Feedback for XrmNightlyBox";
             this.tsmiXtbFeedback.Click += new System.EventHandler(this.GithubXrmToolBoxMenuItem_Click);
             // 
             // tsmiPluginFeedback
@@ -355,7 +355,7 @@ namespace XrmToolBox.New
             this.tsmiDonateGbpXrmToolBox});
             this.tsmiXtbDonate.Name = "tsmiXtbDonate";
             this.tsmiXtbDonate.Size = new System.Drawing.Size(317, 34);
-            this.tsmiXtbDonate.Text = "Donate for XrmToolBox";
+            this.tsmiXtbDonate.Text = "Donate for XrmNightlyBox";
             // 
             // tsmiDonateUsdXrmToolBox
             // 
@@ -432,7 +432,7 @@ namespace XrmToolBox.New
             // 
             this.tsmiXtbAbout.Name = "tsmiXtbAbout";
             this.tsmiXtbAbout.Size = new System.Drawing.Size(317, 34);
-            this.tsmiXtbAbout.Text = "About XrmToolBox";
+            this.tsmiXtbAbout.Text = "About XrmNightlyBox";
             this.tsmiXtbAbout.Click += new System.EventHandler(this.tsmiAbout_Click);
             // 
             // tsmiPluginAbout
@@ -600,7 +600,7 @@ namespace XrmToolBox.New
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(1060, 57);
             this.label5.TabIndex = 20;
-            this.label5.Text = "XrmToolBox is free and it won\'t change. But you can show your support by making a" +
+            this.label5.Text = "XrmNightlyBox is free and it won\'t change. But you can show your support by making a" +
     " donation to its author.";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -743,8 +743,8 @@ namespace XrmToolBox.New
             this.lblConnecting.Name = "lblConnecting";
             this.lblConnecting.Size = new System.Drawing.Size(597, 108);
             this.lblConnecting.TabIndex = 1;
-            this.lblConnecting.Tag = "Please wait while XrmToolBox is connecting to {0}";
-            this.lblConnecting.Text = "Please wait while XrmToolBox is connecting to {0}";
+            this.lblConnecting.Tag = "Please wait while XrmNightlyBox is connecting to {0}";
+            this.lblConnecting.Text = "Please wait while XrmNightlyBox is connecting to {0}";
             this.lblConnecting.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // pbConnectionLoading
@@ -947,7 +947,7 @@ namespace XrmToolBox.New
             this.MinimumSize = new System.Drawing.Size(637, 471);
             this.Name = "NewForm";
             this.Opacity = 0D;
-            this.Text = "XrmToolBox for Microsoft Dataverse and Microsoft Dynamics 365";
+            this.Text = "XrmNightlyBox for Microsoft Dataverse and Microsoft Dynamics 365";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.NewForm_FormClosing);
             this.Load += new System.EventHandler(this.NewForm_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.NewForm_KeyDown);

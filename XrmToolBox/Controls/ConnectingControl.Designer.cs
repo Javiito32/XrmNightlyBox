@@ -43,8 +43,8 @@
             this.lblConnecting.Name = "lblConnecting";
             this.lblConnecting.Size = new System.Drawing.Size(800, 89);
             this.lblConnecting.TabIndex = 2;
-            this.lblConnecting.Tag = "Please wait while XrmToolBox is connecting to {0}";
-            this.lblConnecting.Text = "Please wait while XrmToolBox is connecting to your Microsoft Dynamics CRM/365 org" +
+            this.lblConnecting.Tag = "Please wait while XrmNightlyBox is connecting to {0}";
+            this.lblConnecting.Text = "Please wait while XrmNightlyBox is connecting to your Microsoft Dynamics CRM/365 org" +
     "anization";
             this.lblConnecting.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 

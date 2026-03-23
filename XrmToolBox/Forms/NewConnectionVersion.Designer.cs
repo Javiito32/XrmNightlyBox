@@ -123,7 +123,7 @@
             this.lblPluginTitle.Padding = new System.Windows.Forms.Padding(8, 0, 0, 0);
             this.lblPluginTitle.Size = new System.Drawing.Size(743, 91);
             this.lblPluginTitle.TabIndex = 1;
-            this.lblPluginTitle.Text = "XrmToolBox Connection controls";
+            this.lblPluginTitle.Text = "XrmNightlyBox Connection controls";
             this.lblPluginTitle.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lblNewVersion
@@ -175,7 +175,7 @@
             this.llUpdateNextStart.Size = new System.Drawing.Size(373, 46);
             this.llUpdateNextStart.TabIndex = 3;
             this.llUpdateNextStart.TabStop = true;
-            this.llUpdateNextStart.Text = "Update on next XrmToolBox run";
+            this.llUpdateNextStart.Text = "Update on next XrmNightlyBox run";
             this.llUpdateNextStart.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.llUpdateNextStart.VisitedLinkColor = System.Drawing.Color.Blue;
             this.llUpdateNextStart.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llUpdateNextStart_LinkClicked);

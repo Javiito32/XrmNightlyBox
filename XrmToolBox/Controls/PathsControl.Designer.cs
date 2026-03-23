@@ -62,7 +62,7 @@ namespace XrmToolBox.Controls
             this.lblChangePathTitle.Name = "lblChangePathTitle";
             this.lblChangePathTitle.Size = new System.Drawing.Size(1121, 63);
             this.lblChangePathTitle.TabIndex = 16;
-            this.lblChangePathTitle.Text = "How to change XrmToolBox storage folder";
+            this.lblChangePathTitle.Text = "How to change XrmNightlyBox storage folder";
             this.lblChangePathTitle.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // llOpenStorageFolder
@@ -75,7 +75,7 @@ namespace XrmToolBox.Controls
             this.llOpenStorageFolder.Size = new System.Drawing.Size(1121, 42);
             this.llOpenStorageFolder.TabIndex = 15;
             this.llOpenStorageFolder.TabStop = true;
-            this.llOpenStorageFolder.Text = "Open XrmToolBox storage folder";
+            this.llOpenStorageFolder.Text = "Open XrmNightlyBox storage folder";
             this.llOpenStorageFolder.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llOpenStorageFolder_LinkClicked);
             // 
             // llOpenRootFolder
@@ -88,7 +88,7 @@ namespace XrmToolBox.Controls
             this.llOpenRootFolder.Size = new System.Drawing.Size(1121, 43);
             this.llOpenRootFolder.TabIndex = 14;
             this.llOpenRootFolder.TabStop = true;
-            this.llOpenRootFolder.Text = "Open XrmToolBox folder";
+            this.llOpenRootFolder.Text = "Open XrmNightlyBox folder";
             this.llOpenRootFolder.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llOpenRootFolder_LinkClicked);
             // 
             // pnlStatisticsMain

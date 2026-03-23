@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("XrmToolBox.PluginsStore")]
-[assembly: AssemblyDescription("Plugins Store for XrmToolBox")]
+[assembly: AssemblyTitle("XrmNightlyBox.PluginsStore")]
+[assembly: AssemblyDescription("Plugins Store for XrmNightlyBox")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("MscrmTools")]
-[assembly: AssemblyProduct("XrmToolBox.PluginsStore")]
+[assembly: AssemblyProduct("XrmNightlyBox.PluginsStore")]
 [assembly: AssemblyCopyright("Copyright © MscrmTools 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

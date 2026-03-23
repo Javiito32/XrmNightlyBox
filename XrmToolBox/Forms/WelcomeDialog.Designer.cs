@@ -110,7 +110,7 @@
             this.lblXrmToolBox.Name = "lblXrmToolBox";
             this.lblXrmToolBox.Size = new System.Drawing.Size(662, 166);
             this.lblXrmToolBox.TabIndex = 12;
-            this.lblXrmToolBox.Text = "XrmToolBox";
+            this.lblXrmToolBox.Text = "XrmNightlyBox";
             this.lblXrmToolBox.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label1
