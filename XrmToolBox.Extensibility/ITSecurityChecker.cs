@@ -19,7 +19,7 @@ namespace XrmToolBox.Extensibility
 
         public bool IsDisabled()
         {
-            return ReturnBooleanKeyValue("IsDisabled");
+            return false;
         }
 
         public bool IsPluginAllowed(string plugin)
